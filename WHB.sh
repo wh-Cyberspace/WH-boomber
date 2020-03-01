@@ -272,7 +272,7 @@ if [ "$?" != "0" ]; then
   echo ${BLUE}[↻]${YELLOW} This script requires pip3 to work!${Resetr1};
   echo ${YellowFy1}[☆] Please wait: installing missing dependencies ..${Resetr1};
   echo ""
-  sudo apt-get install python-pip3 -y
+  sudo apt-get install python3-pip3 -y
   echo ""
 else
   echo ${BLUE}[✓]${YELLOW}" pip3 installation  : ${GREEN}found!"${RESTORE};
