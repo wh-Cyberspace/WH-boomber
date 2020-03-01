@@ -225,7 +225,7 @@ if [ "$?" != "0" ]; then
   echo ${BLUE}[↻]${YELLOW} This script requires python to work!${Resetr1};
   echo ${YellowFy1}[☆] Please wait: installing missing dependencies ..${Resetr1};
   echo ""
-  sudo apt-get install python
+  sudo apt-get install python -y
   echo ""
 else
   echo ${BLUE}[✓]${YELLOW}" python installation  : ${GREEN}found!"${RESTORE};
@@ -242,7 +242,7 @@ if [ "$?" != "0" ]; then
   echo ${BLUE}[↻]${YELLOW} This script requires python3 to work!${Resetr1};
   echo ${YellowFy1}[☆] Please wait: installing missing dependencies ..${Resetr1};
   echo ""
-  sudo apt-get install python3
+  sudo apt-get install python3 -y
   echo ""
 else
   echo ${BLUE}[✓]${YELLOW}" python3 installation  : ${GREEN}found!"${RESTORE};
@@ -257,7 +257,7 @@ if [ "$?" != "0" ]; then
   echo ${BLUE}[↻]${YELLOW} This script requires pip to work!${Resetr1};
   echo ${YellowFy1}[☆] Please wait: installing missing dependencies ..${Resetr1};
   echo ""
-  sudo apt-get install python-pip
+  sudo apt-get install python-pip -y
   echo ""
 else
   echo ${BLUE}[✓]${YELLOW}" pip installation  : ${GREEN}found!"${RESTORE};
@@ -272,7 +272,7 @@ if [ "$?" != "0" ]; then
   echo ${BLUE}[↻]${YELLOW} This script requires pip3 to work!${Resetr1};
   echo ${YellowFy1}[☆] Please wait: installing missing dependencies ..${Resetr1};
   echo ""
-  sudo apt-get install python-pip3
+  sudo apt-get install python-pip3 -y
   echo ""
 else
   echo ${BLUE}[✓]${YELLOW}" pip3 installation  : ${GREEN}found!"${RESTORE};
