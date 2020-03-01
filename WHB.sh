@@ -363,6 +363,7 @@ echo ""
 	
   echo "${BLUE}[⇆]${YELLOW} Now you can run This Tool Any whare by this Commend${GREEN}  ( whbom )${YELLOW} .${RESTORE}"
   echo ""
+  sleep 5;
 else
  echo ""
  echo "${BLUE}[✓]${GREEN} installation successfully completed ${RESTORE}"
