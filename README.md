@@ -12,7 +12,7 @@ All pkg automatic download and install .
 2.parrot os
 
 # HOW TO RUN / INSTALL 
-1. https://github.com/wh-Cyberspace/WH-boomber.git
+1. git clone https://github.com/wh-Cyberspace/WH-boomber.git
 
 2. chmod +x WHB.sh
 
