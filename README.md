@@ -1,6 +1,6 @@
 # WH-boomber
 
-Usage of WH-HackerExploit (WH-Boomber) Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
+Usage of wh-Cyberspace (WH-Boomber) Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
 
 # requirements PKG
 All pkg automatic download and install .
@@ -12,7 +12,7 @@ All pkg automatic download and install .
 2.parrot os
 
 # HOW TO RUN / INSTALL 
-1. https://github.com/wh-hackerexploit/WH-boomber.git
+1. https://github.com/wh-Cyberspace/WH-boomber.git
 
 2. chmod +x WHB.sh
 
@@ -26,11 +26,11 @@ install > 1
 
 [WH - Boomber || Mail , SmS , Call boombing Unlimited](https://www.youtube.com/watch?v=7pThTrEPn1I "WH - Boomber || Mail , SmS , Call boombing Unlimited ") 
 ## Screenshot:
-[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-boomber/master/img/whb.png)](https://www.youtube.com/watch?v=7pThTrEPn1I "WH - Boomber || Mail , SmS , Call boombing Unlimited")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-boomber/master/img/whb.png)](https://www.youtube.com/watch?v=7pThTrEPn1I "WH - Boomber || Mail , SmS , Call boombing Unlimited")
 
-[![IMAGE 1](https://raw.githubusercontent.com/wh-hackerexploit/WH-boomber/master/img/whb3.png)](https://www.youtube.com/watch?v=7pThTrEPn1I "WH - Boomber || Mail , SmS , Call boombing Unlimited")
+[![IMAGE 1](https://raw.githubusercontent.com/wh-Cyberspace/WH-boomber/master/img/whb3.png)](https://www.youtube.com/watch?v=7pThTrEPn1I "WH - Boomber || Mail , SmS , Call boombing Unlimited")
 
-[![IMAGE 4](https://raw.githubusercontent.com/wh-hackerexploit/WH-boomber/master/img/whb4.png)](https://www.youtube.com/watch?v=7pThTrEPn1I "WH - Boomber || Mail , SmS , Call boombing Unlimited")
+[![IMAGE 4](https://raw.githubusercontent.com/wh-Cyberspace/WH-boomber/master/img/whb4.png)](https://www.youtube.com/watch?v=7pThTrEPn1I "WH - Boomber || Mail , SmS , Call boombing Unlimited")
 
 
 <br /><br />
@@ -38,6 +38,6 @@ install > 1
 # INFO
 Framwork version : 1.0.1 
 
-POWER BY >> WH-HackerExploit  
+POWER BY >> wh-Cyberspace 
 
 Developer: R47 
